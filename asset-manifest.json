@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactwork/static/css/main.9d3edc41.css",
+    "main.js": "/reactwork/static/js/main.570d7290.js",
+    "static/js/453.8e0126ed.chunk.js": "/reactwork/static/js/453.8e0126ed.chunk.js",
+    "static/media/card1.jpg": "/reactwork/static/media/card1.5bb85c8e8ce8d975fccc.jpg",
+    "static/media/Avi.png": "/reactwork/static/media/Avi.18b5f7fb1470d40ecb73.png",
+    "static/media/card2.jpg": "/reactwork/static/media/card2.46ea2ce8ac076edea165.jpg",
+    "static/media/1.jpg": "/reactwork/static/media/1.f208983c07e63098dd7e.jpg",
+    "static/media/seller1.jpg": "/reactwork/static/media/seller1.0c86b331a4ef80d2811f.jpg",
+    "static/media/seller5.jpg": "/reactwork/static/media/seller5.ae40df41d24083866d8f.jpg",
+    "static/media/seller2.jpg": "/reactwork/static/media/seller2.84fe167149224c4ff81d.jpg",
+    "static/media/card4.jpg": "/reactwork/static/media/card4.cadb2a06ec08d13f3d33.jpg",
+    "static/media/card3.jpg": "/reactwork/static/media/card3.4b33f973ea92f274084d.jpg",
+    "static/media/seller4.jpg": "/reactwork/static/media/seller4.6c17dab7a2e523b38a20.jpg",
+    "static/media/seller3.jpg": "/reactwork/static/media/seller3.7438d8be043c56d690c0.jpg",
+    "static/media/card5.jpg": "/reactwork/static/media/card5.75abbc6fc615e72ce1fd.jpg",
+    "static/media/logo.png": "/reactwork/static/media/logo.d0b13125b84506fcab4a.png",
+    "static/media/card6.jpg": "/reactwork/static/media/card6.5c5187d9f40240b724c1.jpg",
+    "index.html": "/reactwork/index.html",
+    "main.9d3edc41.css.map": "/reactwork/static/css/main.9d3edc41.css.map",
+    "main.570d7290.js.map": "/reactwork/static/js/main.570d7290.js.map",
+    "453.8e0126ed.chunk.js.map": "/reactwork/static/js/453.8e0126ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d3edc41.css",
+    "static/js/main.570d7290.js"
+  ]
+}
